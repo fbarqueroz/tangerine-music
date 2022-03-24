@@ -35,4 +35,13 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Icons using from heroicons.com
 - To install heroicons: npm i @heroicons/react
+- Website: https://heroicons.com
 - Documentation: https://github.com/tailwindlabs/heroicons
+
+## NextAuth.js
+- To install: npm i nextauth
+- Full documentation: https://next-auth.js.org
+
+## Spotify Web API Node (by thelinmichael)
+- To install: npm install spotify-web-api-node
+- Full Documentation: https://github.com/thelinmichael/spotify-web-api-node
